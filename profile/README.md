@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/societe-arcueil-titlepage.png" alt="Title page of the Mémoires de Physique et de Chimie de la Société d'Arcueil, Tome Premier, Paris 1807" height="440">
+</p>
+
 # Arcueil
 
 **We are Bayesians. We come from a long lineage — Laplace, Gauss, Jaynes — and we are building its next instrument.**
@@ -27,3 +31,8 @@ Then computation made it a practice: Metropolis and Hastings, the Gibbs sampler,
 *« La théorie des probabilités n'est, au fond, que le bon sens réduit au calcul. »* — Laplace
 
 **Common sense, reduced to calculation.**
+
+<sub>Images: title page of the *Mémoires de la Société d'Arcueil*, Tome I (Paris, 1807) and portrait of
+Laplace by Paulin Guérin — public domain, via
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:M%C3%A9moires_de_Physique_et_de_Chimie,_de_la_Soci%C3%A9t%C3%A9_d%E2%80%99Arcueil_Titlepage_Volume_1.png)
+([portrait](https://commons.wikimedia.org/wiki/File:Pierre-Simon,_marquis_de_Laplace_(1745-1827)_-_Gu%C3%A9rin.jpg)).</sub>
